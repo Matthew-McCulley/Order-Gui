@@ -7,4 +7,4 @@ It allows a user to select and print an order of food for the restaurant.
 
 All of my code is in the src forlder. 
 
-The assignment can be imported into eclipse and show be able to run.
+The assignment can be imported into eclipse and should be able to run.
